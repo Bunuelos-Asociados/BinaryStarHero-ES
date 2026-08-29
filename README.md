@@ -16,6 +16,6 @@ DESCARGA EL ARCHIVO .ZIP ARRIBA
 3. COPIA Y PEGA TODOS LOS ARCHIVOS DE ESTA CARPETA Y PEGALOS EN LA CARPETA "game" DEL JUEGO ORIGINAL
 4. ¡DISFRUTA EL JUEGO!.
 
-Link de la traducción para Android:
+Link de la traducción para Android: https://github.com/Bunuelos-Asociados/BinaryStarHero-ES/releases/tag/completa
 
 Versión final
