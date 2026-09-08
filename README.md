@@ -1,5 +1,5 @@
 # BinaryStarHero-ES
-LINK DEL JUEGO: https://drive.google.com/file/d/1mL5mVvZxtUt82Q4tzSDAjB65A8otFwxy/view?usp=sharing
+LINK DEL JUEGO: Pagina oficial eliminada.   
 
 Nota: La pagina oficial ha sido borrada, compartimos una copia del juego con el parche aplicado.
 
