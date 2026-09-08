@@ -1,8 +1,6 @@
 # BinaryStarHero-ES
 LINK DEL JUEGO: Pagina oficial eliminada.   
 
-Nota: La pagina oficial ha sido borrada, compartimos una copia del juego con el parche aplicado.
-
 IMAGENES DE LA TRADUCCION:
 
 <img width="1551" height="910" alt="image" src="https://github.com/user-attachments/assets/8f355f0b-da09-4db2-9ab0-cca2911d10ec" />
